@@ -34,6 +34,6 @@ evalib = {
 }
 
 --OLD
-beta_next_update_announcement = "31.03.23"
+beta_next_update_announcement = "updated"
 prem_next_update_announcement = "08.04.23"
 
