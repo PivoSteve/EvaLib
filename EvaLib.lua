@@ -20,7 +20,7 @@ evalib = {
     
     current_version = {
         beta = "7",
-        prem = "6",
+        prem = "7", --11.04 updated
         free = "4",
         aw = "1.5",
     },
@@ -42,4 +42,4 @@ evalib = {
 
 --OLD
 beta_next_update_announcement = "updated"
-prem_next_update_announcement = "08.04.23"
+prem_next_update_announcement = "updated"
