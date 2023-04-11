@@ -31,9 +31,15 @@ evalib = {
         free = "W0H1LJ",
         aw = "qDFOTE",
     },
+
+    pivate_key = {
+        beta = "?",
+        prem = "?",
+        free = "?",
+        aw = "?",
+    },
 }
 
 --OLD
 beta_next_update_announcement = "updated"
 prem_next_update_announcement = "08.04.23"
-
