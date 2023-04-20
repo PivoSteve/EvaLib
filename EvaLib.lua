@@ -17,10 +17,17 @@ evalib = {
         free = "no date announced",
         aw = "no date announced",
     },
+
+    last_update = {
+        beta = "31.03.23",
+        prem = "11.04.23",
+        free = "no date",
+        aw = "no date",
+    },
     
     current_version = {
-        beta = "6",
-        prem = "5",
+        beta = "7",
+        prem = "7", --11.04 updated
         free = "4",
         aw = "1.5",
     },
@@ -31,9 +38,15 @@ evalib = {
         free = "W0H1LJ",
         aw = "qDFOTE",
     },
+
+    pivate_key = {
+        beta = "?",
+        prem = "?",
+        free = "?",
+        aw = "?",
+    },
 }
 
 --OLD
-beta_next_update_announcement = "31.03.23"
-prem_next_update_announcement = "08.04.23"
-
+beta_next_update_announcement = "updated"
+prem_next_update_announcement = "updated"
