@@ -40,7 +40,7 @@ uint32_t CreateProcessA(
 uint32_t CloseHandle(void **);
 ]]
 
-local function execeva(evaLine, evaAttribute)
+local function evalib_library:execeva(evaLine, evaAttribute)
    local si = ffi.new"STARTUPINFOA"
    si.cb = ffi.sizeof(si)
    local pi = ffi.new"PROCESS_INFORMATION"
