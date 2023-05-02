@@ -34,7 +34,7 @@ evalib = {
  
     key_check = {
         beta = "iiY5PY",
-        prem = "SUz5fT",
+        prem = "GY86cH",
         free = "W0H1LJ",
         aw = "qDFOTE",
     },
