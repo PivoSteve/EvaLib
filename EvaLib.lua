@@ -34,7 +34,7 @@ evalib = {
  
     key_check = {
         beta = "cIsJYG",
-        prem = "GY86cH",
+        prem = "6yS8vR",
         free = "W0H1LJ",
         aw = "qDFOTE",
     },
@@ -46,7 +46,3 @@ evalib = {
         aw = "?",
     },
 }
-
---OLD
-beta_next_update_announcement = "updated"
-prem_next_update_announcement = "updated"
