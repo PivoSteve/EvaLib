@@ -21,14 +21,14 @@ evalib = {
     last_update = {
         beta = "02.05.23",
         prem = "02.05.23",
-        free = "no date",
+        free = "06.04.23",
         aw = "no date",
     },
     
     current_version = {
         beta = "8.2", --26.04 updated
         prem = "8.1", --27.04 updated
-        free = "4",
+        free = "8", --06.04
         aw = "1.5",
     },
  
