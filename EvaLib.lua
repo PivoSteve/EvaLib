@@ -26,7 +26,7 @@ evalib = {
     current_version = {
         beta = "8.2", --26.04 updated
         prem = "8.1", --27.04 updated
-        free = "8.2", --08.05 updated
+        free = "8.1", --08.05 updated
     },
  
     key_check = {
