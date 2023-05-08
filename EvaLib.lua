@@ -15,34 +15,28 @@ evalib = {
         beta = "no date announced",
         prem = "no date announced",
         free = "no date announced",
-        aw = "no date announced",
     },
 
     last_update = {
         beta = "02.05.23",
         prem = "02.05.23",
-        free = "06.04.23",
-        aw = "no date",
+        free = "08.05.23",
     },
     
     current_version = {
         beta = "8.2", --26.04 updated
         prem = "8.1", --27.04 updated
-        free = "8", --06.04
-        aw = "1.5",
+        free = "8.2", --08.05 updated
     },
  
     key_check = {
         beta = "6yS8vR",
         prem = "PMxjyj",
-        free = "W0H1LJ",
-        aw = "qDFOTE",
     },
 
     pivate_key = {
         beta = "?",
         prem = "?",
         free = "?",
-        aw = "?",
     },
 }
