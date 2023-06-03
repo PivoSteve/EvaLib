@@ -12,13 +12,13 @@ https://static.wikia.nocookie.net/halflife/images/c/c9/Gman_12.ogg/revision/late
 
 evalib = {
     next_update_announcement = {
-        beta = "01.06.23",
+        beta = "no date",
         prem = "10.06.23",
         free = "25.06.23",
     },
 
     last_update = {
-        beta = "02.05.23",
+        beta = "02.06.23",
         prem = "02.05.23",
         free = "08.05.23",
     },
