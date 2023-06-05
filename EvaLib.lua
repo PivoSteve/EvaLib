@@ -13,24 +13,24 @@ https://static.wikia.nocookie.net/halflife/images/c/c9/Gman_12.ogg/revision/late
 evalib = {
     next_update_announcement = {
         beta = "no date",
-        prem = "10.06.23",
-        free = "25.06.23",
+        prem = "no date",
+        free = "no date",
     },
 
     last_update = {
-        beta = "02.06.23",
-        prem = "02.05.23",
+        beta = "06.06.23",
+        prem = "06.06.23",
         free = "08.05.23",
     },
     
     current_version = {
-        beta = "9",
+        beta = "9.5",
         prem = "9",
         free = "8.1",
     },
  
     key_check = {
-        beta = "CTpGf9",
+        beta = "L0buWN",
         prem = "wXKFNj",
     },
 
