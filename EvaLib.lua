@@ -25,7 +25,7 @@ evalib = {
     
     current_version = {
         beta = "9",
-        prem = "8.1",
+        prem = "9",
         free = "8.1",
     },
  
