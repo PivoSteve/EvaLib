@@ -24,13 +24,13 @@ evalib = {
     },
     
     current_version = {
-        beta = "9.5",
+        beta = "10",
         prem = "9",
         free = "8.1",
     },
  
     key_check = {
-        beta = "L0buWN",
+        beta = "DqzGXu",
         prem = "wXKFNj",
     },
 
