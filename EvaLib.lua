@@ -18,7 +18,7 @@ evalib = {
     },
 
     last_update = {
-        beta = "06.06.23",
+        beta = "17.06.23",
         prem = "06.06.23",
         free = "08.05.23",
     },
