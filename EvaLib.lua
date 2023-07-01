@@ -34,7 +34,7 @@ evalib = {
     }, --0.0
  
     key_check = {
-        beta = "ccHDR0",
+        beta = "epdgkW",
         prem = "BCI6XW",
     }, --6 char
 
